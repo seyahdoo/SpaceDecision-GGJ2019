@@ -1,14 +1,21 @@
 fileFormatVersion: 2
-guid: c9420e3c1edf27d44bc243fc29deed89
+guid: 8fa9e73657fdb314e8aceb28d3478093
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: jenarator.000
+    100004: jenarator.001
     400000: //RootNode
-    2100000: lambert1
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: pCube18
+    400002: jenarator.000
+    400004: jenarator.001
+    2100000: No Name
+    2300000: jenarator.000
+    2300002: jenarator.001
+    3300000: jenarator.000
+    3300002: jenarator.001
+    4300000: jenarator.001
+    4300002: jenarator.000
   externalObjects: {}
   materials:
     importMaterials: 0
@@ -71,7 +78,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

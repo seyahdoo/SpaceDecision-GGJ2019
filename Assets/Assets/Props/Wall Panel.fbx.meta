@@ -1,14 +1,21 @@
 fileFormatVersion: 2
-guid: c9420e3c1edf27d44bc243fc29deed89
+guid: 8886953702876144986edde456aa4137
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: duvar.paneli.000
+    100004: duvar.paneli.001
     400000: //RootNode
-    2100000: lambert1
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: pCube18
+    400002: duvar.paneli.000
+    400004: duvar.paneli.001
+    2100000: No Name
+    2300000: duvar.paneli.000
+    2300002: duvar.paneli.001
+    3300000: duvar.paneli.000
+    3300002: duvar.paneli.001
+    4300000: duvar.paneli.001
+    4300002: duvar.paneli.000
   externalObjects: {}
   materials:
     importMaterials: 0
@@ -71,7 +78,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

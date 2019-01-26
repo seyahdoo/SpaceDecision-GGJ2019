@@ -1,14 +1,22 @@
 fileFormatVersion: 2
-guid: c9420e3c1edf27d44bc243fc29deed89
+guid: 5ca1f49a51fdd324887e7ae505c738d8
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: masa.001
+    100004: masa.002
     400000: //RootNode
-    2100000: lambert1
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: pCube18
+    400002: masa.001
+    400004: masa.002
+    2100000: No Name
+    2300000: masa.001
+    2300002: masa.002
+    3300000: masa.001
+    3300002: masa.002
+    4300000: masa.002
+    4300002: masa.001
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 0
@@ -71,7 +79,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
