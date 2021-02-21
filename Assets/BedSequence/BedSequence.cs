@@ -17,7 +17,7 @@ public class BedSequence : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(test || Input.GetKeyDown(KeyCode.I))
+        if(test || Input.GetKeyDown(KeyCode.F))
         {
             test = false;
             StartBedSequence();
